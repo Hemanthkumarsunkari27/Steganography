@@ -1,4 +1,4 @@
-### Secure Data Hiding in Images Using Steganography  
+![overall_result](https://github.com/user-attachments/assets/dd83c244-845e-4815-9b75-dca886c136fe)### Secure Data Hiding in Images Using Steganography  
 A Python-based steganography project that securely hides messages within images using OpenCV and a password-protected approach.  
 
 ---
@@ -54,7 +54,9 @@ python stego.py
 
 This screenshot demonstrates the entire execution process, including Python IDLE, encryption, decryption, and output files.
 
-![Overall Execution]("C:\Users\ranis\OneDrive\Pictures\Screenshots\overall_result.png")
+![Overall Execution](screenshots/overall_result.png)
+
+)
 
 ---
 
