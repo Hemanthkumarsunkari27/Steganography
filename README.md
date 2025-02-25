@@ -50,13 +50,11 @@ python stego.py
 
 ---
 
-## 📷 Screenshots  
-🔹 **Original Image**  
-(Before encoding the message)  
-🔹 Encrypted Image  
-(Visually unchanged but contains hidden data)  
-🔹 Decryption Output  
-(Message successfully retrieved using the correct passcode)  
+## 📌 Overall Execution Screenshot  
+
+This screenshot demonstrates the entire execution process, including Python IDLE, encryption, decryption, and output files.
+
+![Overall Execution]("C:\Users\ranis\OneDrive\Pictures\Screenshots\overall_result.png")
 
 ---
 
